@@ -1,0 +1,15 @@
+.DS_Store
+
+# Local Xcode state. Includes the macOS account name and UI layout.
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Build products
+DerivedData/
+build/
+*.moved-aside
+
+# Swift Package Manager
+.build/
+.swiftpm/
