@@ -1,3 +1,8 @@
+<img width="240" height="562" alt="Screenshot iPhone 17 12-10-2026 at 11 54 28 PM" src="https://github.com/user-attachments/assets/0b7ead30-93ff-415b-a4e8-a074247efcd4" />
+<img width="240" height="562" alt="Screenshot iPhone 17 12-10-2026 at 11 54 39 PM" src="https://github.com/user-attachments/assets/6615a768-ba21-481f-af51-6beefbaf37be" />
+
+
+
 # SwiftData Learning Lab
 
 An offline iOS app that teaches SwiftData with runnable examples. The Xcode project, target, and source folder are `SwiftDataLearningLab`. The home screen title is SwiftData Learning Lab.
